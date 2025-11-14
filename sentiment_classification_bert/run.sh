@@ -1,0 +1,1 @@
+accelerate launch --config_file ./accelerate_config.yaml deepspeed_bert_peft.py
